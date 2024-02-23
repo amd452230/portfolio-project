@@ -13,9 +13,14 @@
 .col-12 {width: 100%;}
 
 /* navber design starts  here */
- #menu-icon{
+#menu-icon{
     display: none;
-} 
+}
+.hidden{
+    display: block;
+    margin-top: 20px;
+ }
+
 .nav-logo{
     text-align: left;
 }
